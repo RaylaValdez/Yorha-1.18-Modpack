@@ -1,0 +1,7 @@
+name = "Clockwork"
+filename = "clockwork-forge-0.0.1-alpha350ee73315.jar"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/1100497495450210384/1163499565945724938/clockwork-forge-0.0.1-alpha350ee73315.jar?ex=65524169&is=653fcc69&hm=f01a84acf6c0f0dfd5890f0159b40a36cb3a64a40867885873b2fec6da6d6b20&"
+hash-format = "sha256"
+hash = "11fca1a61419e08f364d1a8fd88f40f34c218b74c97ba946698af5c2fe1970f3"

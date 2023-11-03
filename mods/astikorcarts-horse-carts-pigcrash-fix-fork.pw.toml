@@ -1,0 +1,13 @@
+name = "AstikorCarts [Horse Carts] - [PigCrash Fix][Fork]"
+filename = "astikorcarts-1.18.2_mc-pig_crashfix-1.1.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1c66aeaa76990aad8e2507bfa162f4825e719df4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4530902
+project-id = 860216
